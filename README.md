@@ -1,0 +1,1 @@
+This code, at the time of writing, parses prices from the site using Greasemonkey - a browser extension and the node.js express library. The code sends information in json format to the server, where a data file is generated.
